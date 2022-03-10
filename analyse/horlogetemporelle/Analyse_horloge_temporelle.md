@@ -32,4 +32,4 @@ Installation en cours:
 - Pilier avec un téléphone (pas montré sur l'image) qui actionne certaines animations
 
 <img src="../../media/mediahorloge/plafond.jpg" style="width: 200px"><img>
-<img src="../../media/mediahorloge/salle.jpg" style="width: 200px"><img>
+<img src="../../media/mediahorloge/Salle.jpg" style="width: 200px"><img>
