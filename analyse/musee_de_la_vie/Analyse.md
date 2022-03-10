@@ -24,4 +24,4 @@ L'ambiance change de cadre en cadre
 - quatre grands cadres blancs qui servent de surface de projection pour les animations
 - neuf petits cadres pour projeter des animations en boucle pour complémenter les quatre cadres principaux
 
-<img src="../../media/mediachronaufrage/planmusee.png" style="width: 400px"></img>
+<img src="../../media/mediachronaufrage/mappingmusee.png" style="width: 400px"></img>
