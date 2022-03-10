@@ -36,4 +36,4 @@ Installation en cours:
 
 Schéma de l'installation
 
-<img src="../../media/mediahorloge/schemahorloge.jpg" style="width: 500px"><img>
+<img src="../../media/mediahorloge/schemahorloge.png" style="width: 500px"><img>
