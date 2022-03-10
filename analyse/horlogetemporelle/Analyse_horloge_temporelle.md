@@ -48,7 +48,7 @@ L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'en
 3 cours nécessaires pour produire un tel projet:
 - Programmation interactive et bases de données
 - Conception sonore
-- Espace interact
+- Espace interactif
  
 
 Technique qui m'étais inconnue:
