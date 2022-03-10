@@ -22,4 +22,4 @@ qui joue à ce jeu va avoir des attentes uniques par rapport au jeu. Par contre,
 - Espace interactif
 
 ### Schéma de l'installation prévue:
-![Image Plantation](
+![Image Plantation](../../media/mediajeutemporel/plantation.png)
