@@ -17,7 +17,7 @@ Les oeuvres seront analysés par les personnes suivantes:
 5. L'horloge de l'apocalypse: Justin Guay
 6. Distortion Collective: Jacob Alarie-Brousseau
 
-##Technique qui nous était inconnue:
+## Technique qui nous était inconnue:
 
 
 
