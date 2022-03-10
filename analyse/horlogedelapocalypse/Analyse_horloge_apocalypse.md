@@ -1,18 +1,19 @@
-# L'horloge Temporelle
+# L'horloge de l'Apocalypse
 
-Certaines informations sont tirées du github du projet: https://github.com/MALT5/L-horloge-de-l-apocalypse
+Certaines informations sont tirées du [github du projet](https://github.com/MALT5/L-horloge-de-l-apocalypse).
 
-Certaines images sont tirées de la page de présentation du projet: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+Certaines images sont tirées de la [page de présentation du projet](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html).
 
-L'horloge temporelle est réalisée par:
+## L'horloge de l'Apocalypse est réalisée par:
 Maxime Sabourin, Louis-philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
 
-Exploitation du thème *Temps* dans le projet:
+## Exploitation du thème *Temps* dans le projet:
 L'horloge utilisée va contrôler la période de temps projetée avec les sons d'ambiance. Plus les aiguilles avancent, plus les périodes de temps avancent.
 
 
-Ambiance: Le projet a plusieurs ambiances dépendamment de l'heure affichée sur l'horloge. 
+## Ambiance: 
+Le projet a plusieurs ambiances dépendamment de l'heure affichée sur l'horloge. 
 - 1h: On a une ambiance calme et naturelle dans un environnement vaste et calme.
 - 2h: On a une ambiance calme avec des bruits de vent et sons de la faune
 - 3h: On a une ambiance un peu plus rustique et ancienne avec des dinosaures et hommes des cavernes
@@ -26,7 +27,7 @@ Ambiance: Le projet a plusieurs ambiances dépendamment de l'heure affichée sur
 - 11h: On a une ambiance apocalyptique avec de la musique intense qui fait ressentir le danger
 
 
-Installation en cours:
+## Installation en cours:
 - Trois projecteurs pointés vers des rideaux blancs pour projeter l'ambiance désirée à grandeur des murs.
 - Horloge modifiée pour détecter l'heure sélectionnée
 - Kinect modifiée avec un raspberry pi pour détecter la présence de personnes dans la pièce
@@ -36,27 +37,27 @@ Installation en cours:
 <img src="../../media/mediahorloge/Salle.jpg" style="width: 350px"><img>
 
 
-Schéma de l'installation:
+## Schéma de l'installation:
 
 <img src="../../media/mediahorloge/schemahorloge.png" style="width: 500px"><img>
 
 
-Attentes envers l'interacteur:
-L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'environnement montré à chaque heure 
+## Attentes envers l'interacteur:
+L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'environnement montré à chaque heure .
 
 
-3 cours nécessaires pour produire un tel projet:
+## 3 cours nécessaires pour produire un tel projet:
 - Programmation interactive et bases de données
 - Conception sonore
 - Espace interactif
  
 
-Technique qui m'étais inconnue:
-pointer les projecteurs vers le centre pour projeter sur lesmurs opposés à cause du manque d'espace.
+## Technique qui m'étais inconnue:
+Pointer les projecteurs vers le centre pour projeter sur lesmurs opposés à cause du manque d'espace.
 
 
-Composante technologique qui m'étais inconnue
-Raspberry pi afin de faciliter la communication entre les ordinateurs et les Kinect puisque la communication par USB est facilement compromise et n'est pas très fiable
+## Composante technologique qui m'étais inconnue
+Raspberry pi afin de faciliter la communication entre les ordinateurs et les Kinect puisque la communication par USB est facilement compromise et n'est pas très fiable.
 
 
 
