@@ -9,7 +9,7 @@ Nous souhaitons sensibiliser la génération actuelle sur les conséquences éco
 
 
 ### Comment le thème du temps est exploité:
-Cette oeuvre critique le mode de vie de l'époque actuelle. Elle a le but de sensibiliser les membres de notre génération à changer leurs habitudes pour faire attention à l'environnement. Elle informe que le futur est proche et qu'il faut agir rapidement pour changer la situation.
+À chaque question répondue, le temps de réponse est réduit et les questions deviennent sérieuses, donc le joueur n'a pas le temps de réfléchir et doit faire des choix rapidement. À la fin, les choix faits par le joueur décident de ce que sera le futur.
 
 ### L'ambiance:
 L'ambiance de cette oeuvre est inspiré de jeux télévisés. Donc, il y a une musique agréable et la situation est joyeuse. Cela ressemble à une fête. La personne 
@@ -37,14 +37,17 @@ qui joue à ce jeu va avoir des attentes uniques par rapport au jeu. Par contre,
 
 >Source: [Page de projet](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
+### Schéma de l'installation prévue:
+![Image Plantation](../../media/mediajeutemporel/plantation.png)
 
+>Source: [Page de préproduction](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html)
+
+### Le but de L'interacteur.trice:
+Dans le jeu, le joueur n'a seulement besoin de participer en répondant aux questions de l'animateur. À la fin, le joueur découvre s'il sauve ou il ruine la Terre.
 
 ### Les 3 cours requis:
 - Introduction à la programmation multimédia
 - Animation 2d
 - Espace interactif
 
-### Schéma de l'installation prévue:
-![Image Plantation](../../media/mediajeutemporel/plantation.png)
 
->Source: [Page de préproduction](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html)
