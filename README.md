@@ -1,3 +1,3 @@
-# alariebrousseau_ouellette_guay_T2
+# TP2, Analyse des oeuvre des étudiants de TIM de 6ième session
 
-hi
+Ce repository contiens des informations sur les oeuvres intéractives 
