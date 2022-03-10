@@ -16,3 +16,6 @@ Les oeuvres seront analysés par les personnes suivantes:
 4. Chronaufrage: Justin Guay
 5. L'horloge de l'apocalypse: Justin Guay
 6. Distortion Collective: Jacob Alarie-Brousseau
+
+## Composante technologique qui nous étais inconnue:
+Raspberry pi afin de faciliter la communication entre les ordinateurs et les Kinect puisque la communication par USB est facilement compromise et n'est pas très fiable.
