@@ -1,3 +1,5 @@
+![Bannière](../../media/mediadistortioncollective/distortion_banniere.png)
+
 # Distortion Collective
 
 
