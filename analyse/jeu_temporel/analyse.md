@@ -1,3 +1,5 @@
+![Image animateur](../../media/mediajeutemporel/Banniere.png)
+
 ### Réalisé par:
 - Raphaël Fillion
 - Philippe Trudel
