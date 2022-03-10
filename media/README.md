@@ -1,1 +1,1 @@
-## Ce fichier contient des photos.
+## Ce fichier contient les photos utilisées pour les analyse.
