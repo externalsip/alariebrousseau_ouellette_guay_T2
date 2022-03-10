@@ -53,7 +53,7 @@ L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'en
  
 
 ## Technique qui m'étais inconnue:
-Pointer les projecteurs vers le centre pour projeter sur lesmurs opposés à cause du manque d'espace.
+Pointer les projecteurs vers le centre pour projeter sur les murs opposés à cause du manque d'espace.
 
 
 ## Composante technologique qui m'étais inconnue
