@@ -1,5 +1,5 @@
 # Chère Sacha
 
-Ce fichier contiens l'analyse de l'oeuvre Chère Sacha
+Ce fichier contient l'analyse de l'oeuvre Chère Sacha
 
 Par: Jacob Alarie-Brousseau
