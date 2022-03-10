@@ -13,3 +13,5 @@
 
 Le thème du temps est utilisé dans cette oeuvre en utilisant la perte du fil du temps que nous avons resenti pendant le confinement, pendant ce moment ou tout les jours se ressemblaient.
 
+
+
