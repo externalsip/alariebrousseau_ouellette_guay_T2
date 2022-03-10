@@ -34,6 +34,11 @@ Installation en cours:
 <img src="../../media/mediahorloge/plafond.jpg" style="width: 200px"><img>
 <img src="../../media/mediahorloge/Salle.jpg" style="width: 350px"><img>
 
-Schéma de l'installation
+
+Schéma de l'installation:
 
 <img src="../../media/mediahorloge/schemahorloge.png" style="width: 500px"><img>
+
+
+Attentes envers l'interacteur:
+L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'environnement montré à chaque heure 
