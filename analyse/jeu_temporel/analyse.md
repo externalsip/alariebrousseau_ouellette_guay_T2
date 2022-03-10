@@ -17,7 +17,21 @@ qui joue à ce jeu va avoir des attentes uniques par rapport au jeu. Par contre,
 
 ### L'installation dans le studio: 
 
+- Cette oeuvre requiert l'installation de projecteurs et d'haut-parleurs.
 
+![Image Plafond](../../media/mediajeutemporel/image_installation.jpeg)
+
+>Source: [Page de projet](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
+
+- Elle requiert aussi un écran de télévision pour le codage.
+
+![Image Télévision](../../media/mediajeutemporel/)
+
+>Source: [Page de projet](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
+
+- Il faut avoir un podium pour mettre l'.cran tactile nécessaire pour jouer.
+
+![Image Podium](../../media/mediajeutemporel/podium.jpeg)
 
 ### Les 3 cours requis:
 - Introduction à la programmation multimédia
