@@ -2,7 +2,7 @@
 
 # Analyse de l'oeuvre
 
-**Membres de l'équipe**: Trish Nguyen, Angelina De Silva Jeca, Karine Cornier et Sabrina Kayani
+**Membres de l'équipe**: Trish Nguyen, Angelina De Silva Jeca, Karine Cornier et Sabrina Kayani.
 
 Synopsis: *«Sasha adolescente et Sasha adulte vivent leur vie. Durant son adolescence, Sasha se fait négliger par ses parents et cela affecte sa santé mentale. Pendant sa vie d'adulte, Sasha habite maintenant seule, Sasha s'accepte, mais ses parents sont toujours contre elle. Cependant, Sasha se porte mieux mentalement qu'avant. Le public est appelé à découvrir que les deux vies projetées devant eux sont différents passages de la vie d'une seule et même personne.»*
 
@@ -18,7 +18,7 @@ L'interacteur est appelé à participer à une expérience interactive dans laqu
 
 ## Ambience
 
-*Chère Sasha* possède deux ambiences distinctes, 
+*Chère Sasha* possède deux ambiences distinctes, l'une pour la partie adolescente, qui est déprimante avec une bande sonore ambiante incluant des pleurs. La salle est aussi très peu éclairée. Cela donne l'illusion d'être isolé dans cette salle, dans une situation qui n'est pas agréable. Ensuite, La partie adulte, qui ne contient plus de ces genre de bruits, plutôt, il y a les bruits d'une ville en action comme des voitures passant sur une route, il y a beaucoup plus de lumière ce qui donne un effet de confiance, on peut sentir que malgré ce qu'il s'est passé pendant son adolescence, Sasha a repris le contrôle de sa vie.
 
 ## Décor de la chambre
 
@@ -30,7 +30,7 @@ La chambre de Sacha contiens plusieurs éléments de décor, voici une liste ven
 
 ## Installation et schéma
 
-L'oeuvre sera situé dans deux salles contenant chacunes les éléments du stade de la vie de Sasha
+L'oeuvre sera situé dans deux salles contenant chacunes les éléments du stade de la vie de Sasha.
 
 <img src="../../media/mediasasha/sasha_plantation.jpeg">
 
@@ -44,4 +44,4 @@ L'oeuvre sera situé dans deux salles contenant chacunes les éléments du stade
 
 ## Cours lié au projet
 
-Le projet utilise entre autre des techniques apprises dans les cours de web, animation 2D, espace interactif
+Le projet utilise entre autre des techniques apprises dans les cours de web, animation 2D et espace interactif.
