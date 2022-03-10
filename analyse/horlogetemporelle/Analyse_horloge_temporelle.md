@@ -35,3 +35,5 @@ Installation en cours:
 <img src="../../media/mediahorloge/Salle.jpg" style="width: 350px"><img>
 
 Schéma de l'installation
+
+<img src="../../media/mediahorloge/schemahorloge.jpg" style="width: 500px"><img>
