@@ -31,4 +31,4 @@ Installation en cours:
 - Kinect modifiée avec un raspberry pi pour détecter la présence de personnes dans la pièce
 - Pilier avec un téléphone (pas montré sur l'image) qui actionne certaines animations
 
-<img src="../../media/mediahorloge"><img>
+<img src="../../media/mediahorloge/plafond.jpg"><img>
