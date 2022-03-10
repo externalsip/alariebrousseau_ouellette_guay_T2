@@ -1,1 +1,1 @@
-# Ce dossier contient des images du Jeu Temporel
+## Ce fichier contient des images du Jeu Temporel
