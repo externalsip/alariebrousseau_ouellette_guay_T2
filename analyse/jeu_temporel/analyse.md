@@ -33,7 +33,7 @@ qui joue à ce jeu va avoir des attentes uniques par rapport au jeu. Par contre,
 
 ![Image Podium](../../media/mediajeutemporel/podium.jpeg)
 
-![Image Écran Tactile](../../media/mediajeutemporel/
+![Image Écran Tactile](../../media/mediajeutemporel/experience.jpeg)
 
 >Source: [Page de projet](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
