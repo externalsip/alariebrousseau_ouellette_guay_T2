@@ -1,1 +1,1 @@
-Ce fichier contient des photos.
+## Ce fichier contient des photos.
