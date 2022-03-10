@@ -2,4 +2,4 @@
 
 Ce document contient l'analyse de l'oeuvre Horloge de l'Apocalypse.
 
-Réalisé par: Justin Guay
+Par: Justin Guay
