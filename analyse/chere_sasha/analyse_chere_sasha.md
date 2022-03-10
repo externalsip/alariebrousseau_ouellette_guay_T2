@@ -28,7 +28,7 @@ L'interacteur est appelé à participer à une expérience interactive dans laqu
 
 La chambre de Sacha contiens plusieurs éléments de décor, voici une liste venant de la [page de l'équipe](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html):
 
-<img src="../../media/mediasasha/sasha_elements_decor.png" style= "width:250px">
+<img src="../../media/mediasasha/sasha_elements_decor.png" style= "width:300px">
 
 >source: [page de l'équipe](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
@@ -42,7 +42,7 @@ L'oeuvre sera situé dans deux salles contenant chacunes les éléments du stade
 
 **Schéma de branchement:**
 
-<img src="../../media/mediasasha/sasha_schema_branchement.jpeg" style="width:500px">
+<img src="../../media/mediasasha/sasha_schema_branchement.jpeg" style="width:600px">
 
 >source: [préproduction de l'équipe](https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html)
 
