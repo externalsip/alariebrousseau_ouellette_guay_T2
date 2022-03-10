@@ -50,14 +50,4 @@ L'interacteur devra tourner l'aiguille d'une heure après avoir profité de l'en
 - Programmation interactive et bases de données
 - Conception sonore
 - Espace interactif
- 
-
-## Technique qui m'étais inconnue:
-Pointer les projecteurs vers le centre pour projeter sur les murs opposés à cause du manque d'espace.
-
-
-## Composante technologique qui m'étais inconnue
-Raspberry pi afin de faciliter la communication entre les ordinateurs et les Kinect puisque la communication par USB est facilement compromise et n'est pas très fiable.
-
-
 
