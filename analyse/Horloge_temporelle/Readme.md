@@ -1,1 +1,0 @@
-Analyse Horloge Temporelle
