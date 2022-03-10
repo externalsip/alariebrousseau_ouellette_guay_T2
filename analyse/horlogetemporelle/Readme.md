@@ -1,5 +1,5 @@
-# L'Horloge Temporelle
+# L'Horloge de l'Apocalypse
 
-Ce dossier contient l'analyse sur l'Horloge Temporelle
+Ce dossier contient l'analyse sur l'Horloge de l'Apocalypse.
 
 par: Justin Guay
