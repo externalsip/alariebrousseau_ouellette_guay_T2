@@ -1,1 +1,1 @@
-# Ce fichierc ontient des images de Distortion Collective
+# Ce fichier contient des images de Distortion Collective
