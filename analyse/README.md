@@ -2,6 +2,10 @@
 
 Ce document l'analyse des oeuvres des étudiants des 6ième session: *Chère Sacha*, *3 minutes*, *Jeu Temporel*, *Chronaufrage*, *L'horloge de l'apocalypse* et *Distorsion collective*.
 
+## Thème principal
+
+Le thème principal des oeuvres est le temps.
+
 ## Analyse des oeuvres
 
 Les oeuvres seront analysés par les personnes suivantes:
