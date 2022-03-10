@@ -33,3 +33,5 @@ Installation en cours:
 
 <img src="../../media/mediahorloge/plafond.jpg" style="width: 200px"><img>
 <img src="../../media/mediahorloge/Salle.jpg" style="width: 350px"><img>
+
+Schéma de l'installation
