@@ -29,7 +29,7 @@ L'ambiance change de cadre en cadre
 
 ## Schéma de l'installation:
 
-<img src="../../media/mediachronaufrage/plantechnique.png" style="width: 540px"></img>
+<img src="../../media/mediachronaufrage/plantechnique.png" style="width: 600px"></img>
 
 ## Attentes envers l'interacteur:
 L'interacteur devra s'approcher tranquillement de chacun des quatre cadres de facon à ce que les capteurs les détectent pour activer les animations de chaque cadre.
