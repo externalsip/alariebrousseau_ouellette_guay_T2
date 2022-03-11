@@ -25,4 +25,4 @@ L'ambiance change de cadre en cadre
 - neuf petits cadres pour projeter des animations en boucle pour complémenter les quatre cadres principaux
 
 <img src="../../media/mediachronaufrage/mappingmusee.jpg" style="width: 400px"></img>
-<img src="../../media/mediachronaufrage/planmusee.png" style="width: 400px"></img>
+<img src="../../media/mediachronaufrage/planmusee.png" style="width: 600px"></img>
