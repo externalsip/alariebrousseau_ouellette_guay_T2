@@ -26,3 +26,15 @@ L'ambiance change de cadre en cadre
 
 <img src="../../media/mediachronaufrage/mappingmusee.jpg" style="width: 400px"></img>
 <img src="../../media/mediachronaufrage/planmusee.png" style="width: 540px"></img>
+
+## Schéma de l'installation:
+
+<img src="../../media/mediachronaufrage/plantechnique.png" style="width: 540px"></img>
+
+## Attentes envers l'interacteur:
+L'interacteur devra s'approcher tranquillement de chacun des quatre cadres de facon à ce que les capteurs les détectent pour activer les animations de chaque cadre.
+
+## 3 cours nécessaires pour réaliser un tel projet
+-
+-
+-
