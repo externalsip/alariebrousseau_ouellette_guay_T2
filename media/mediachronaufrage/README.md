@@ -1,1 +1,1 @@
-## Ce fichier contient des images de Chronaufrage
+## Ce dossier contient des images de Chronaufrage
