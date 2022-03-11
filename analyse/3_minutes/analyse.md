@@ -12,7 +12,12 @@ Tu es enfermé dans un casier sombre et glacial pour une énième fois cette ann
 L'ambiance de cette oeuvre exprime la joie et le bonheur mais aussi de la solitude et de la dépresssion par rapport à chaque partie de l'oeuvre.
 
 ### L'installation dans le studio:
-![Image haut-parleurs](../../media/media3minutes/
+
+Il faut installer des haut-parleurs pour le son.
+
+![Image haut-parleurs](../../media/media3minutes/3minutesspeakers.png)
+
+
 
 
 ### Schéma de l'installation prévue:
