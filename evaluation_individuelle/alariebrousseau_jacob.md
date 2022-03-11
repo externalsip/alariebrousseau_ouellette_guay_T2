@@ -25,6 +25,10 @@ L'art utilisée dans le projet est tout simplement très beau, je serait honnêt
 
 L'idée des jours qui se répetent et qui ont tous l'air d'être le même est quelque que je peux comprendre très bien. Mais comme la modélisation 3D ne m'intéresse pas autant que le dessin, ce projet tombe en quatrième.
 
+## Chère Sasha
+
+Un projet intéressant qui va faire l'utilisation d'un téléphone comme un des éléments d'interactivité, ce que je suis intéressé à voir être réalisé.
+
 ## 3 Minutes
 
 L'idée de faire vivre le contraste entre être un enfant épanoui en train de s'amuser et l'un enfermé dans un casier est quelque chose d'intéressant. Surtout que le projet est un jeu vidéo. Mais il y a certaines décisions telle que faire de toutes les choses à tirer des cibles et non pas des enemis. Enfermer quelqu'un clostrophobique comme moi dans un casier peux aussi avoir de mauvais effets, je comprend que c'est l'idée, mais ça ne m'aide pas a aimer cela.
