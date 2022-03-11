@@ -30,5 +30,5 @@ Ensuite de la dépression et de la tristesse aux dernières images car tout devi
 - On ressent du bonheur et de l'excitement au début grace au jeu mais ensuite, on devient déprimé.
 
 ### Rôle d'un projet futur
-- Je pense que le 3d modeling serait intéressant mais il faudrait cependant que je l'apprends bien.
+- Je pense que le 3d modeling serait intéressant mais il faudrait cependant que je l'apprends bien et que je comprends comment le faire. Il me semble que c'est très difficile mais je pense que ce serait faisable.
 
