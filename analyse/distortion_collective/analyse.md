@@ -5,7 +5,7 @@
 
 **Synopsis**:*«L’expérience commence par la perspective d’un élève qui va commencer ses premiers cours en ligne durant le confinement avec enthousiasme. Les complications commencent à partir du moment où le professeur se présente, que les travaux s’accumulent, que la personne vit un sentiment d’isolement, et le tout dans une boucle sans fin qui s’accélère périodiquement et qui l’affecte mentalement. Une expérience sur des sensations réelles qui vous fera réfléchir.»*
 
->Source: [page de l'équipe](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
+>source: [page de l'équipe](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
 
 **Membres de l'équipe**: William Dubois et Ghislain Lacombe
 
@@ -20,6 +20,35 @@ L'interacteur entre dans une salle de couleur bleu pâle. Sur un mur, on peut vo
 ## Ambiance
 
 L'ambiance de l'oeuvre commence très calme et appaisante. Alors que l'étudiant ne sais pas encore ce qui est pour arriver. Pour ensuite lentement laisser place à quelque chose d'angoissant et chaotique au fil du temps.
+
+<img src="../../media/mediadistortioncollective/corbeaux_distortion.png" style="width:400px">
+
+>source: [préproduction de l'équipe](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
+
+## Installation et schéma
+
+L'installation de cet oeuvre requis:1 projecteur, 2 haut parleurs un bureau, une chaise et un casque vr. La majorité du projet ce passe dans le casque avec un environement 3D complètement modélisé
+
+Voici l'installation de l'oeuvre:
+
+<img src="../../media/mediadistortioncollective/plan_distortion.png" style="width:500px">
+
+>source: [préproduction de l'équipe](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
+
+Voici le schéma de branchement de l'oeuvre:
+
+![Schéma_branchement](../../media/mediadistortioncollective/schema_branchement_distortion.png)
+
+>source: [préproduction de l'équipe](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/preproduction.html)
+
+## Cours utilisés pour la création de cette oeuvre
+
+Cette oeuvre utilise notament les techniques apprises dans les cours suivants: *modélisation 3D, conception sonore, animation 3D.*
+
+
+
+
+
 
 
 
