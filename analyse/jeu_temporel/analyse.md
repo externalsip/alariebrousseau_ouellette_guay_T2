@@ -52,4 +52,8 @@ Dans le jeu, le joueur n'a seulement besoin de participer en répondant aux ques
 - Animation 2d
 - Espace interactif
 
+### Technique inconnue:
+Node
 
+### Composante technologique:
+Arduino.
