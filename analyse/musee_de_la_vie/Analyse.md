@@ -35,6 +35,6 @@ L'ambiance change de cadre en cadre
 L'interacteur devra s'approcher tranquillement de chacun des quatre cadres de facon à ce que les capteurs les détectent pour activer les animations de chaque cadre.
 
 ## 3 cours nécessaires pour réaliser un tel projet
--
--
--
+- Conception sonore interactive
+- Traitement vidéo
+- Espace interactif
