@@ -17,6 +17,10 @@ Il faut installer des haut-parleurs pour le son.
 
 ![Image haut-parleurs](../../media/media3minutes/3minutesspeakers.png)
 
+Il faut créer une structure pour le casier.
+
+![Image structure](../../media/media3minutes/3minutesstructure.png)
+
 
 
 
