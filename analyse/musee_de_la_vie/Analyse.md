@@ -2,7 +2,7 @@
 
 Certaines informations sont tirées du [github du projet](https://github.com/Blobduckies/Chronaufrage).
 
-Certaines images sont tirées de la [page de présentation du projet](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
+Toutes les images sont tirées de la [page de présentation du projet](https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html)
 
 
 ## Le Musée de la Vie est réalisé par:
