@@ -11,6 +11,9 @@ Tu es enfermé dans un casier sombre et glacial pour une énième fois cette ann
 ### L'ambiance:
 L'ambiance de cette oeuvre exprime la joie et le bonheur mais aussi de la solitude et de la dépresssion par rapport à chaque partie de l'oeuvre.
 
+### Schéma de l'installation prévue:
+![Image plantation](../../media/media3_minutes/plantation2.drawio.png)
+
 ### Comment le thème du temps est exploité:
 Dans cette oeuvre, le temps est utilisé comme une limite de temps pour effectuer une tache comme par exemple, lancer le plus de ballons possible dans une cible. La notion du temps dans cette oeuvre est différente à chaque trois minutes.
 
