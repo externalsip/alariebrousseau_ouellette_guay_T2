@@ -4,8 +4,8 @@
 2. Jeu Temporel
 3. Musée de la Vie/Chronaufrage
 4. Distortion Collective
-5. 3 Minutes
-6. Chère Sasha
+5. Chère Sasha
+6. 3 minutes
 
 ## Explications
 
@@ -27,4 +27,4 @@ L'idée des jours qui se répetent et qui ont tous l'air d'être le même est qu
 
 ## 3 Minutes
 
-L'idée de faire vivre le contraste entre être un enfant épanoui en train de s'amuser et l'un enfermé dans un casier est quelque chose d'intéressant. Surtout que le projet est un jeu vidéo. Mais il y a certaines décisions telle que faire
+L'idée de faire vivre le contraste entre être un enfant épanoui en train de s'amuser et l'un enfermé dans un casier est quelque chose d'intéressant. Surtout que le projet est un jeu vidéo. Mais il y a certaines décisions telle que faire de toutes les choses à tirer des cibles et non pas des enemis. Enfermer quelqu'un clostrophobique comme moi dans un casier peux aussi avoir de mauvais effets, je comprend que c'est l'idée, mais ça ne m'aide pas a aimer cela.
