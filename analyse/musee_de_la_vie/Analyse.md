@@ -21,8 +21,10 @@ L'ambiance change de cadre en cadre
 - Quatrième cadre: Renouveau. relaxation. Environnement calme et reposant, eau qui coule et papillons qui volent
 
 ## Installation en cours
-- quatre grands cadres blancs qui servent de surface de projection pour les animations
-- neuf petits cadres pour projeter des animations en boucle pour complémenter les quatre cadres principaux
+- quatre grands tableaux blancs qui servent de surface de projection pour les animations
+- neuf petits tableaux pour projeter des animations en boucle pour complémenter les quatre tableaux principaux
+- un projecteur pour projeter l'oeuvre sur les tableaux
+- une kinect pour détecter les personnes qui s'approchent des tableaux
 
 <img src="../../media/mediachronaufrage/mappingmusee.jpg" style="width: 400px"></img>
 <img src="../../media/mediachronaufrage/planmusee.png" style="width: 540px"></img>
