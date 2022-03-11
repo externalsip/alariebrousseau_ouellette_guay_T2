@@ -1,3 +1,5 @@
+![Image basket](../../media/media3minutes/image_basket.png)
+
 ### Réalisé par:
 - Naoufal Bensaiad
 - Jérémie Lévesque
@@ -15,14 +17,15 @@ L'ambiance de cette oeuvre exprime la joie et le bonheur mais aussi de la solitu
 
 Il faut installer des haut-parleurs pour le son.
 
-![Image haut-parleurs](../../media/media3minutes/3minutesspeakers.png)
+![Image haut-parleurs](../../media/media3minutes/speakers_installes.png)
 
 Il faut créer une structure pour le casier.
 
 ![Image structure](../../media/media3minutes/3minutesstructure.png)
 
+Finalement, Il faut assembler le casier.
 
-
+![Image casier](../../media/media3minutes/casier.png)
 
 ### Schéma de l'installation prévue:
 ![Image plantation](../../media/media3minutes/plantation2.drawio.png)
