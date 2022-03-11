@@ -32,3 +32,12 @@ Un projet intéressant qui va faire l'utilisation d'un téléphone comme un des 
 ## 3 Minutes
 
 L'idée de faire vivre le contraste entre être un enfant épanoui en train de s'amuser et l'un enfermé dans un casier est quelque chose d'intéressant. Surtout que le projet est un jeu vidéo. Mais il y a certaines décisions telle que faire de toutes les choses à tirer des cibles et non pas des enemis. Enfermer quelqu'un clostrophobique comme moi dans un casier peux aussi avoir de mauvais effets, je comprend que c'est l'idée, mais ça ne m'aide pas a aimer cela.
+
+## Mon rôle dans ces projets
+
+D'après moi, le rôle qui m'intéresserait le plus dans un projet tels que ceux-ci serait dans le graphic design, la création de choses tel que la bannière de présentation ainsi que l'art vectoriel.
+
+
+
+
+
