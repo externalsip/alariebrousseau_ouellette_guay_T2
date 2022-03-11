@@ -31,7 +31,7 @@ L'interacteur.trice doit en premier lancer des ballons sur des cibles en 3 minut
 - Gestion de projet multimédia
 
 ### Technique inconnue:
-Model 3d
+- Model 3d
 
 ### Composante technologique:
-Kinect
+- Kinect
