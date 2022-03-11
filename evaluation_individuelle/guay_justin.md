@@ -12,7 +12,7 @@
 
 ### 1: L'horloge de l'apocalypse
 
-J'ai hâte de voir ce projet particulièrement, parce que c'est celui qui semblait être le mieux organisé lors de leur présentation et le fait de manipuler directement un appareil pour affecter son environnement est très intéressant.
+J'ai hâte de voir ce projet particulièrement, parce que c'est celui qui semblait être le mieux organisé lors de leur présentation et le fait de manipuler directement un appareil pour affecter son environnement entier est très intéressant.
 
 
 ### 2: Chère Sasha
@@ -33,3 +33,6 @@ Ce projet pourrait être intéressant car la réalité virtuelle est rarement ut
 ### 6: Distortion Collective
 J'ai très peu d'intérêt pour ce projet puisque nous n'avions presque pas d'informations à son sujet. D'ailleurs, personne dans l'équipe n'avait connaissance de son existence avant de le voir sur le menu des projets.
 
+
+## Mon rôle dans de futurs projets
+Je me vois faire la programmation des appareils tels raspberry pi et arduino, car j'aime programmer depuis que je suis au secondaire et le cours de programmation est d'ailleurs le cours que j'aime le plus cette session.
