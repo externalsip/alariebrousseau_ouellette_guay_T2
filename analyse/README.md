@@ -23,3 +23,5 @@ Raspberry pi afin de faciliter la communication entre les ordinateurs et les Kin
 
 
 ## Composante technologique qui nous étais inconnue:
+
+Node.js pour pouvoir transférer des commandes javascript d'une machine à l'autre.
